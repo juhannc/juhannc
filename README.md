@@ -9,7 +9,7 @@ I'm a multidisciplinary AI expert with a strong background in robotics with addi
 
 
 class Johann:
-    def __init__(self):
+    def __init__(self) -> None:
         self.name = "Johann"
         self.pronouns = "he/him"
         self.location = "Germany"
@@ -17,7 +17,7 @@ class Johann:
         self.url = "https://chrstnsn.com"
         self.linkedin = "johannchristensen"
 
-    def __str__(self):
+    def __str__(self) -> str:
         return (
             f"Hi, I'm {self.name} ({self.pronouns}) from {self.location}.\n"
             + f"I'm a {self.occupation}.\n"
