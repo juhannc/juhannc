@@ -14,7 +14,7 @@ class Johann:
         self.pronouns = "he/him"
         self.location = "Germany"
         self.occupation = "Researcher and AI Expert"
-        self.url = "https://chrstnsn.com"
+        self.url = "https://chrstnsn.de"
         self.linkedin = "johannchristensen"
 
     def __str__(self) -> str:
