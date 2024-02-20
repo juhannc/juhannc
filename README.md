@@ -1,6 +1,6 @@
 # Moin! <img src="./wave.gif" width="30">
 
-I'm a multidisciplinary AI researcher for robotics with a strong background in aircraft systems and (autonomous) flight control. Currently pursuing my Ph.D. (Dr.-Ing.) in Reinforcement Learning for mechatronic systems at the Hamburg University of Technology. Proven problem-solving skills and the ability to familiarize oneself quickly with new topics and tasks.
+I am a research associate at the DLR Institute for AI Safety and Security in Sankt Augustin, Germany. Here, I’m working on safe artificial intelligence systems for the aviation domain, pursuing my Ph. D. (Dr.-Ing.) in this field.
 
 ## 👨🏼‍💻 About me
 
